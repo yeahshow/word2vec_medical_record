@@ -6,3 +6,7 @@ Categorical output
 
 To give classification output via a softmax layer from encoded input of structured medical record text. For example, classfication output will suggest the best CT imaging exam protocol, like a recommendation system. Each input dataset already has a label of best study protocol given by a specialized medical doctor(plain text), therefore converting them into one-hot vector enables supervised training of a classification model. 
 
+Preprocessing of Training Data
+
+
+
